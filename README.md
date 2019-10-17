@@ -1,2 +1,3 @@
 # go-cards
-Add description later
+
+Small project to demonstrate the basic language features of Go.
